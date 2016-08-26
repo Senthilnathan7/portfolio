@@ -1,0 +1,125 @@
+/* Portfolio css */
+body
+{
+	background-color:#FFF;
+	margin:0;
+	padding:0;
+}
+#container{
+	width:100%;
+	height:1000px;
+}
+.header{
+	background-color:#DCDCDC;
+	height:80px;
+	position:fixed;
+	width:100%;
+}
+.header img
+{
+	width:15%;
+	padding-top:20px;
+	float:left;
+}
+.header ul
+{
+	list-style:none;
+}
+.header ul li
+{
+	display:inline;
+	float:left;
+	margin-left:40px;
+	margin-top:30px;
+}
+.header ul li a
+{
+	font-size:18px;
+	color:#00008B;
+	text-decoration:none;
+	text-transform:uppercase;
+}
+.slideshow img
+{
+	width:100%;
+}
+.graphics1
+{
+	width:30%;
+	float:left;
+	margin-top:15px;
+	margin-left:25px;
+}
+.graphics img
+{
+	width:80%;
+	margin-left:10px;
+	margin-bottom:10px;
+}
+.graphics2
+{
+	width:30%;
+	float:left;
+	margin-top:15px;
+	margin-left:25px;
+}
+.graphics3
+{
+	width:30%;
+	float:left;
+	margin-top:15px;
+	margin-left:25px;
+}
+.footer
+{
+	width:100%;
+	background-color:#000;
+	height:80px;
+	clear:both;
+}
+.footer img
+{
+	margin-top:30px;
+	float:left;
+	margin-left:20px;
+}
+.footer p
+{
+	float:right;
+	color:#fff;
+	margin-right:20px;
+	margin-top:30px;
+}
+.banner
+{	
+	margin-left:100px;
+}
+.brouchers
+{	
+	margin-left:100px;
+}
+.digital
+{
+	margin-left:100px;
+}
+.flex
+{
+	margin-left:100px;
+}
+.flyer
+{
+	margin-left:100px;
+}
+.logos
+{
+	margin-left:100px;
+}
+.posters
+{
+	margin-left:100px;
+}
+.tshirt
+{
+	margin-left:100px;
+}
+
